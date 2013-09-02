@@ -47,8 +47,7 @@ class LikeBlockController extends BlockController
     public function add(){
         // TODO live preview funktioniert nicht beim ersten addden da noch nix geladen ist
         // TODO nach dem ersten speichern die seite refreshen damit das script geladen wird (controller->task()=='add'!)
-        // TODO http://static.wpgpl.com/wp-content/uploads/2010/01/facebook-plugin-300x299.jpg
-        // TODO http://store.shopware.de/images/articles/bf5e9c3582cdb2a6f0f314bd455a1e0d_5.jpg
+
 
     }
 
