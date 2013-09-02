@@ -1,0 +1,43 @@
+
+
+
+
+Version 0.2
+
+    Added an Blocktype "Facebook Like Button".
+    Blocktype Content and Style options:
+    - Layout Style
+      > Standard
+      > Button Count
+      > Box Count
+    - Color Scheme
+      > Light
+      > Dark
+    - Font Family
+      > Arial
+      > Lucida grande
+      > Segoe ui
+      > Tahoma
+      > Trebuchet ms
+      > Verdana
+    - Verb to display
+      > Like Button
+      > Recommend Button
+    - Display the Send Button
+      > Yes
+      > No
+    - Show faces
+      > Yes
+      > No
+    The second tab "Live Preview" displays a live preview with the selected options.
+
+    UPDATED: The Package supports now 76 Language types from Facebook!
+    http://www.facebook.com/translations/FacebookLocales.xml
+
+Version 0.1
+
+    Added a Dashboard Page "Socialnetwork > Facebook".
+    Available Settings:
+    - Checkbox for enable / disable Package
+    - Textbox for an AppID of a Facebook Application
+    - Selectbox for the default Language to display (en|de)
