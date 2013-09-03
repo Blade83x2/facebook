@@ -47,8 +47,6 @@ class LikeBlockController extends BlockController
     public function add(){
         // TODO live preview funktioniert nicht beim ersten addden da noch nix geladen ist
         // TODO nach dem ersten speichern die seite refreshen damit das script geladen wird (controller->task()=='add'!)
-
-
     }
 
     public function save($args)
